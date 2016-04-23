@@ -1,0 +1,28 @@
+name: pbj
+favicon: null
+layout_spectrum: 0.6118382841814309
+typography_spectrum: 0.3337392306420952
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.2296356235165149
+  lightness: 0.3120019971393049
+  saturation: 0.35935521917417645
+  rhythmicContrast: 0.06685199425555766
+purpose: []
